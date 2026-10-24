@@ -6,3 +6,7 @@
 [![Indigenous data: CARE](https://img.shields.io/badge/Indigenous%20data-CARE-4b6f44)](https://github.com/causeway-services/.github/blob/main/GOVERNANCE.md)
 [![Tips welcome](https://img.shields.io/badge/tips-welcome-d4a017)](https://github.com/561-group/.github/blob/main/TIPS.md)
 <!-- 561-group-standards:badges:end -->
+
+## Code custody
+
+This repository holds section data only. The executable code that reads this data lives in [red-cup-engineering/software-work-witness-service](https://github.com/red-cup-engineering/software-work-witness-service) (private). Point that engine at a checkout of this repository with `SECTION_DATA_ROOT` (default: the current directory).
